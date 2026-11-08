@@ -1,0 +1,13 @@
+{
+  "id": "neon",
+  "displayName": "Неон",
+  "description": "Чёрный киберкот в бирюзовой куртке. Девять анимаций для Codex CLI.",
+  "spritesheetPath": "spritesheet.png",
+  "frame": {
+    "width": 192,
+    "height": 208,
+    "columns": 8,
+    "rows": 9
+  },
+  "animations": {}
+}

@@ -1,0 +1,24 @@
+# Publish the finished character assets, not local generation/tooling state.
+/*
+!/.gitignore
+!/README.md
+!/brief.md
+!/prepare_cli_pet.py
+!/references/
+/references/*
+!/references/canonical-base.png
+!/final/
+/final/*
+!/final/spritesheet-standard.png
+!/final/spritesheet-extended.png
+!/frames/
+/frames/*.json
+!/previews/
+/previews/*
+!/previews/final/
+!/previews/standard/
+!/cli/
+/cli/*
+!/cli/neon/
+__pycache__/
+*.pyc
